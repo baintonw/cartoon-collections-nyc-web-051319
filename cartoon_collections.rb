@@ -22,5 +22,5 @@ def find_the_cheese(list)
   cheese = ["cheddar", "gouda", "camembert"]
   list.collect do |ingredient|
     cheese.include?
-    
+  end
 end
