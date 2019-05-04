@@ -18,7 +18,7 @@ def long_planeteer_calls(calls)
   end
 end
 
-def find_the_cheese(item)
+def find_the_cheese(list)
   cheese = ["cheddar", "gouda", "camembert"]
-  item.
+  list.
 end
