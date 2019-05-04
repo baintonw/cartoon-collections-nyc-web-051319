@@ -20,5 +20,6 @@ end
 
 def find_the_cheese(list)
   cheese = ["cheddar", "gouda", "camembert"]
-  list.
+  list.collect do |ingredient|
+    
 end
