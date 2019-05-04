@@ -22,5 +22,5 @@ def find_the_cheese(list)
   cheese = ["cheddar", "gouda", "camembert"]
   list.select do |food|
     cheese.include?(food)
-  end.to_s
+  end.join()
 end
